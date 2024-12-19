@@ -1,3 +1,6 @@
+#Main Code for Flashcards
+#ASM 19/12/2024
+
 #Import
 import json
 
